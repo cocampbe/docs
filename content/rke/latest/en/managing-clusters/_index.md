@@ -45,3 +45,5 @@ The cluster's etcd snapshots are removed, including both local snapshots and sna
   - /etc/cni
   - /opt/cni
   - /var/run/calico
+
+- Clean up iptables on each host
